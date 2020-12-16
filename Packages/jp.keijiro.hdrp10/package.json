@@ -1,0 +1,13 @@
+{
+  "author": "Keijiro Takahashi",
+  "description": "10-bit HDR video format support for HDRP",
+  "displayName": "HDRP10",
+  "keywords": [ "unity" ],
+  "license": "Unlicense",
+  "name": "jp.keijiro.hdrp10",
+  "repository": "github:keijiro/Hdrp10",
+  "unity": "2020.2",
+  "unityRelease": "0f1",
+  "version": "0.0.1"
+}
+
